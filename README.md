@@ -11,3 +11,7 @@ php artisan migrate
 npm install
 npm run dev
 ```
+
+Jangan lupa ubah .env terutama bagian APP_URL ataupun config database.
+
+Setelah run pindah kehalaman /login
